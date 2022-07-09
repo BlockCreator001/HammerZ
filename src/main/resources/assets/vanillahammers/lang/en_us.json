@@ -1,0 +1,14 @@
+{
+  "itemGroup.vanillahammerstab": "Vanilla Hammers",
+
+  "item.vanillahammers.stone_hammer": "Stone Hammer",
+  "item.vanillahammers.iron_hammer": "Iron Hammer",
+  "item.vanillahammers.gold_hammer": "Gold Hammer",
+  "item.vanillahammers.emerald_hammer": "Emerald Hammer",
+  "item.vanillahammers.diamond_hammer": "Diamond Hammer",
+  "item.vanillahammers.netherite_hammer": "Netherite Hammer",
+  "item.vanillahammers.obsidian_hammer": "Obsidian Hammer",
+  "item.vanillahammers.redstone_hammer": "Redstone Hammer",
+  "item.vanillahammers.wooden_hammer": "Wooden Hammer",
+  "item.vanillahammers.lapis_hammer": "Lapis Hammer"
+}

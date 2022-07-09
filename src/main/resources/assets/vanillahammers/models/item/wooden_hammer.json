@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "vanillahammers:items/wooden_hammer"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DsD",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:oak_log"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vanillahammers:wooden_hammer"
+  }
+}
