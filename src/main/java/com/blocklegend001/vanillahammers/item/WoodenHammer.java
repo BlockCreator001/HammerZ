@@ -3,18 +3,15 @@ package com.blocklegend001.vanillahammers.item;
 
 import com.blocklegend001.vanillahammers.init.ModCreativeModeTab;
 import com.blocklegend001.vanillahammers.procedures.HammerDestroy3x3;
-import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.core.BlockPos;
-import net.minecraft.network.chat.Component;
-import net.minecraft.network.chat.TranslatableComponent;
 import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.item.*;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
+import net.minecraft.world.item.PickaxeItem;
+import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.state.BlockState;
-import org.jetbrains.annotations.Nullable;
-
-import java.util.List;
 
 public class WoodenHammer extends PickaxeItem {
 	public WoodenHammer() {
@@ -42,7 +39,7 @@ public class WoodenHammer extends PickaxeItem {
 
 				1, -3.3f,
 
-				new Item.Properties().tab(ModCreativeModeTab.VANILLAHAMMERS_TAB).fireResistant());
+				new Properties().tab(ModCreativeModeTab.VANILLAHAMMERS_TAB).fireResistant());
 	}
 
 	@Override
